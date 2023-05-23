@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**abdullahsoyuoz/abdullahsoyuoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@abdullahsoyuoz &nbsp;
+[<img src="https://cdn1.iconfinder.com/data/icons/social-circle-3/32/instagram_circle-256.png" width="3.5%"/>](https://www.instagram.com/abdullahsoyuoz/)  &nbsp;
+[<img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-512.png" width="3.5%"/>](https://twitter.com/abdullahsoyuoz)  &nbsp;
+[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" width="3.5%"/>](https://www.facebook.com/abdullahsoyuoz)  &nbsp;
+[<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="3.5%"/>](https://www.linkedin.com/in/abdullahsoyuoz/)  &nbsp;
+[<img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="3.5%"/>](https://www.youtube.com/@abdullahsoyuoz)  &nbsp;
+[<img src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-logo-shapes/250/steam_logo-256.png" width="3.5%"/>](https://steamcommunity.com/id/abdullahsoyuoz/)  &nbsp;
+[<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/twitch-256.png" width="3.5%"/>](https://www.twitch.tv/abdullahsoyuoz)  &nbsp;
+[<img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" width="3.5%"/>](https://medium.com/@abdullahsoyuoz)  &nbsp;
+[<img src="https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-07-256.png" width="3.5%"/>](https://drive.google.com/drive/folders/1yuPH4zmyxOdsXldH6pGUI4SGRSqEnjZ6)  &nbsp;
+[<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-256.png" width="3.5%"/>](https://github.com/abdullahsoyuoz)  &nbsp;
+<a href="mailto:abdullahsoyuoz@gmail.com"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Google-512.png" width="3.5%"/></a> &nbsp;
+<a href="mailto:abdullahsoyuoz@hotmail.com"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/78-microsoft-512.png" width="3.5%"/></a> &nbsp;
+<a href="mailto:abdullahsoyuoz@icloud.com"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Apple-512.png" width="3.5%"/></a> &nbsp;
