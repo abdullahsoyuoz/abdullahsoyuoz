@@ -1,5 +1,5 @@
-[<img src="https://cdn1.iconfinder.com/data/icons/social-circle-3/32/instagram_circle-256.png" width="3.5%"/>](https://www.instagram.com/abdullahsoyuoz/)  &nbsp;
-[<img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-512.png" width="3.5%"/>](https://twitter.com/abdullahsoyuoz)  &nbsp;
+[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-1024.png" width="3.5%"/>](https://www.instagram.com/abdullahsoyuoz/)  &nbsp;
+[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-1024.png" width="3.5%"/>](https://twitter.com/abdullahsoyuoz)  &nbsp;
 [<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook2_colored_svg-1024.png" width="3.5%"/>](https://www.facebook.com/abdullahsoyuoz)  &nbsp;
 [<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" width="3.5%"/>](https://www.linkedin.com/in/abdullahsoyuoz/)  &nbsp;
 [<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-1024.png" width="3.5%"/>](https://www.youtube.com/@abdullahsoyuoz)  &nbsp;
