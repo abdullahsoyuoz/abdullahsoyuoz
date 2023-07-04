@@ -13,6 +13,3 @@
 ## Development
 <img src="https://img.icons8.com/?size=512&id=7I3BjCqe9rjG&format=png" width="3.5%"/>  &nbsp;
 <img src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png" width="3.5%"/>  &nbsp;
-## Environment
-[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
-[![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
