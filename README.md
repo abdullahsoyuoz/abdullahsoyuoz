@@ -1,4 +1,4 @@
-👨‍💻 @abdullahsoyuoz
+# 👨‍💻 @abdullahsoyuoz
 <a href="mailto:abdullahsoyuoz@gmail.com"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Google-512.png" width="3.5%"/></a> &nbsp;
 <a href="mailto:abdullahsoyuoz@hotmail.com"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/78-microsoft-512.png" width="3.5%"/></a> &nbsp;
 <a href="mailto:abdullahsoyuoz@icloud.com"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Apple-512.png" width="3.5%"/></a> &nbsp;
