@@ -1,8 +1,8 @@
 <a href="#" onclick="event.preventDefault();"> <img src="https://cdn2.iconfinder.com/data/icons/seo-flat-6/128/39_Email_Marketing-1024.png" width="3.5%"/></a>&nbsp;
 <a href="#" onclick="event.preventDefault();"> <img src="https://cdn3.iconfinder.com/data/icons/signs-symbols-5/126/slice331-512.png" width="3.5%"/></a>&nbsp;
-<a href="mailto:abdullahsoyuoz@gmail.com"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Google-512.png" width="3.5%"/></a> &nbsp;
-<a href="mailto:abdullahsoyuoz@hotmail.com"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/78-microsoft-512.png" width="3.5%"/></a> &nbsp;
-<a href="mailto:abdullahsoyuoz@icloud.com"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Apple-512.png" width="3.5%"/></a> &nbsp;
+<a href="mailto:abdullahsoyuoz@gmail.com"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" width="3.5%"/></a> &nbsp;
+<a href="mailto:abdullahsoyuoz@hotmail.com"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/243_Outlook_logo-512.png" width="3.5%"/></a> &nbsp;
+<a href="mailto:abdullahsoyuoz@icloud.com"><img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_icloud-512.png" width="3.5%"/></a> &nbsp;
 <br><br>
 <a href="#" onclick="event.preventDefault();"> <img src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/user-group-1024.png" width="3.5%"/></a>&nbsp;
 <a href="#" onclick="event.preventDefault();"> <img src="https://cdn3.iconfinder.com/data/icons/signs-symbols-5/126/slice331-512.png" width="3.5%"/></a>&nbsp;
