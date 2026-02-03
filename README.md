@@ -13,5 +13,6 @@
 [<img src="https://cdn1.iconfinder.com/data/icons/apps-9/64/pexels-apps-platform-512.png" width="3.5%"/>](https://www.pexels.com/tr-tr/@abdullah-soyuoz-137934832/)  &nbsp;
 <br>
 ### Flutter & React Native  
-### Node.js
-### Python & Tensorflow
+### Node.js  
+### Machine Learning, Data Science & Computer Vision
+
