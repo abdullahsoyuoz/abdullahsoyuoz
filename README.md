@@ -14,5 +14,5 @@
 <br>
 ## 📱 Flutter & React Native  
 ## 🧩 Node.js  
-## 🤖 Machine Learning, Data Science & Computer Vision
+## 🤖 Machine Learning, Data Science, LLM/RAG & Computer Vision
 
